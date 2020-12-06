@@ -1,4 +1,4 @@
-# NiyaXu
+# Niya Xu
 
 <img alt="GIF" align="right" height="370px" src="assets/gifs/kittygif.gif"/>
 
