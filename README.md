@@ -4,7 +4,8 @@
 
 ### 🐹 Nice to meet you, I'm Niya!
 - A third year Mathematics student at the University of Waterloo
-- I am interested in Front-end Development, UI/UX Design, and Artificial Intelligence
+- Interested in **Front-end Development**, **UI/UX Design**, and **Artificial Intelligence**
+- Previously worked for Ontario Digital Service, and the University of Waterloo
 
 ### 🍓Hobbies
 <div>
