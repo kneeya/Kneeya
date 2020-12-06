@@ -1,4 +1,6 @@
-# 🐹 Nice to meet you, I'm Niya!
+# Welcome!
+
+### 🐹 It's nice to meet you, I'm Niya!
 
 <img alt="GIF" align="right" height="370px" src="assets/gifs/kittygif.gif"/>
 
