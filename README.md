@@ -5,7 +5,7 @@
 ### 🐹 Nice to meet you, I'm Niya!
 - A third year Mathematics student at the University of Waterloo
 
-### Hobbies
+### 🍓Hobbies
 <div>
 <img src="assets/images/codingicon.png" height="40px">
 <img src="assets/images/drawingicon.png" height="40px">
