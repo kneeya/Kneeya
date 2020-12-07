@@ -5,7 +5,7 @@
 <img alt="GIF" align="right" height="370px" src="assets/gifs/kittygif.gif"/>
 
 - A third year Mathematics student at the University of Waterloo
-- Interested in **Front-end Development**, **UI/UX Design**, and **Artificial Intelligence**
+- Interested in **Front-end Development**, **UI/UX**, and **Artificial Intelligence**
 - Previously a **Full-Stack Developer** at Ontario Digital Service, and University of Waterloo
 
 ### 🍓Hobbies
