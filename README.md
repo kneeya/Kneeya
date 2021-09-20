@@ -10,11 +10,7 @@
 
 ### 🍓Hobbies
 <div>
-<img src="assets/images/codingicon.png" height="40px">
-<img src="assets/images/drawingicon.png" height="40px">
-<img src="assets/images/gamecontroller.png" height="40px">
-<img src="assets/images/cameraicon.png" height="40px">
-<img src="assets/images/netflixicon.jpg" height="40px">
+Coding, Gaming, Acting, Dancing, Drawing, Singing, watching Netflix!
 </div>
 
 ### 💌 Contact
