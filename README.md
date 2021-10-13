@@ -10,7 +10,7 @@
 
 ### 🍓Hobbies
 <div>
-Coding, Gaming, Acting, Dancing, Content Creating, Drawing, Singing, watching Netflix!
+Coding, Gaming, Dancing, Content Creating, Drawing, Singing, watching Netflix!
 </div>
 
 ### 💌 Contact
