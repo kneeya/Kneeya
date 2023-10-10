@@ -4,7 +4,7 @@
 
 <img alt="GIF" align="right" height="370px" src="assets/gifs/kittygif.gif"/>
 
-- A Waterloo Mathematics Alumni and new grad working at 1Password
+- A Waterloo Mathematics Alumni working at 1Password
 - Interested in **Front-end Development**, **UI/UX**, **AI** and **AR**
 - Previously a **Front-End Developer** at Ontario Digital Service, and University of Waterloo
 
